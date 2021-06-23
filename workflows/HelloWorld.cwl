@@ -5,7 +5,7 @@ cwlVersion: v1.1
 #   dockstore workflow launch --local-entry HelloWorld.cwl --json hello.json
 ###############################################################################################
 
-class: Workflow
+class: CommandLineTool
 
 inputs:
   myName: File
