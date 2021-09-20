@@ -5,3 +5,4 @@ tools:
 workflows:
    - subclass: cwl
      primaryDescriptorPath: /workflows/HelloWorld.cwl
+     publish: true
