@@ -2,8 +2,8 @@ version: 1.2
 tools:
    - subclass: cwl
      primaryDescriptorPath: /tools/Dockstore.cwl
-     publish: true
+     publish: false
 workflows:
    - subclass: cwl
      primaryDescriptorPath: /workflows/HelloWorld.cwl
-     publish: true
+     publish: false
