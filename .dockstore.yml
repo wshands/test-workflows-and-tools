@@ -3,6 +3,7 @@ tools:
    - subclass: cwl
      primaryDescriptorPath: /tools/Dockstore.cwl
      publish: true
+     name: testing
 workflows:
    - subclass: cwl
      primaryDescriptorPath: /workflows/HelloWorld.cwl
