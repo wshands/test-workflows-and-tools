@@ -5,6 +5,8 @@ id: Md5sum
 label: Simple md5sum tool
 cwlVersion: v1.0
 
+# walts GitHub app test
+#
 $namespaces:
   dct: http://purl.org/dc/terms/
   foaf: http://xmlns.com/foaf/0.1/
