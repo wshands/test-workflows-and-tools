@@ -4,7 +4,7 @@ cwlVersion: v1.1
 # launch locally with Dockstore CLI:
 #   dockstore workflow launch --local-entry HelloWorld.cwl --json hello.json
 
-# Change number 1 return 555 error to test SQS to Lambda retry
+# Change number 2 return message id and 555 error to test SQS to Lambda retry
 
 ###############################################################################################
 
