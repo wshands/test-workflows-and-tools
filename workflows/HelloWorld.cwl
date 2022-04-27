@@ -4,7 +4,7 @@ cwlVersion: v1.1
 # launch locally with Dockstore CLI:
 #   dockstore workflow launch --local-entry HelloWorld.cwl --json hello.json
 
-# Change number 2 dev api bad goat to test SQS to Lambda retry
+# Change number 1 revert to test SQS to Lambda retry
 
 ###############################################################################################
 
